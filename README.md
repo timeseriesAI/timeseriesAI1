@@ -1,4 +1,4 @@
-# timeseriesAI
+## timeseriesAI is based on fastai v1. I'd recommend you use [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) which is based on fastai v2.
 
 
 timeseriesAI is a library built on top of fastai/ Pytorch to help you apply Deep Learning to your time series/ sequential datasets, in particular Time Series Classification (TSC) and Time Series Regression (TSR) problems.
